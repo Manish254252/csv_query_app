@@ -1,0 +1,11 @@
+MatchID,Date,Team1,Team2,Venue,Team1Score,Team2Score,Winner,MOM
+1,2024-03-29,Mumbai Indians,Chennai Super Kings,Mumbai,180/6,175/8,Mumbai Indians,Rohit Sharma
+2,2024-03-30,Delhi Capitals,Kolkata Knight Riders,Delhi,160/7,165/4,Kolkata Knight Riders,Shreyas Iyer
+3,2024-03-31,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore,200/3,195/6,Royal Challengers Bangalore,Virat Kohli
+4,2024-04-01,Rajasthan Royals,Punjab Kings,Jaipur,150/8,155/5,Punjab Kings,KL Rahul
+5,2024-04-02,Chennai Super Kings,Royal Challengers Bangalore,Chennai,175/5,178/7,Royal Challengers Bangalore,AB de Villiers
+6,2024-04-03,Kolkata Knight Riders,Mumbai Indians,Kolkata,140/9,145/7,Mumbai Indians,Jasprit Bumrah
+7,2024-04-04,Sunrisers Hyderabad,Delhi Capitals,Hyderabad,190/4,185/9,Sunrisers Hyderabad,David Warner
+8,2024-04-05,Punjab Kings,Rajasthan Royals,Mohali,165/7,160/8,Punjab Kings,Mayank Agarwal
+9,2024-04-06,Chennai Super Kings,Kolkata Knight Riders,Chennai,210/5,200/6,Chennai Super Kings,MS Dhoni
+10,2024-04-07,Royal Challengers Bangalore,Delhi Capitals,Bangalore,180/4,175/7,Royal Challengers Bangalore,Glenn Maxwell
