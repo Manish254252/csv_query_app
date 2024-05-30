@@ -10,8 +10,7 @@ public class Main {
     public static void main(String[] args) {
         QueryExtractor queryExtractor = new QueryExtractor();
         try {
-            queryExtractor.extractQuery(
-                    "SELECT MatchID, Date FROM ipl.csv");
+            queryExtractor.extractQuery("SELECT MatchID ,Team1 ,Team2 ,Team1Score FROM ipl.csv");
         } catch (Exception e) {
             e.printStackTrace();
         }
